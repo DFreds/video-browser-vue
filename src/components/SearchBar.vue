@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div>
     <input @input="onInput" />
   </div>
 </template>
